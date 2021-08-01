@@ -1,8 +1,6 @@
 # Sagnik
 Flask docker app deployed on k8s
 
-#Screenshot of the application
-
 # Building an image
 ```
 docker build -t <folder-name> .
